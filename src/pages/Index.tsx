@@ -8,9 +8,9 @@ const LEADS = [
   {
     id: "1",
     name: "Karl Connon",
-    company: "Corsearch",
+    company: "Gong.io",
     title: "Vice President of Sales - EMEA",
-    avatar: "/placeholder.svg",
+    avatar: "https://media.licdn.com/dms/image/v2/D560BAQEginaUF2_5cg/company-logo_200_200/company-logo_200_200/0/1689291197848/gong_io_logo?e=1745452800&v=beta&t=EHYvHlm0MHd_rdRu6olDEQ2UIrKriThLNswln677Aq4",
     activity: "Connected with Apollo sales team",
     location: "London, England",
     employeeCount: "1001-5000",
@@ -20,9 +20,9 @@ const LEADS = [
   {
     id: "2",
     name: "Ben Moyer",
-    company: "Stytch",
+    company: "OpenAI",
     title: "RevOps",
-    avatar: "/placeholder.svg",
+    avatar: "https://media.licdn.com/dms/image/v2/C4E0BAQG0lRhNgYJCXw/company-logo_200_200/company-logo_200_200/0/1678382029963/openai_logo?e=1745452800&v=beta&t=aBPmHM9z-uuBEo3LgoJqT6UEqm9VUvACucmwj7EeHfs",
     activity: "Reviewed competitor on G2",
     location: "San Francisco, CA",
     employeeCount: "51-200",

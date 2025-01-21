@@ -110,7 +110,7 @@
 .avatar {
   width: 44px;
   height: 44px;
-  border-radius: 50%;
+  border-radius: 12px;
   overflow: hidden;
   flex-shrink: 0;
 }
@@ -170,7 +170,7 @@
 .detail-avatar {
   width: 72px;
   height: 72px;
-  border-radius: 50%;
+  border-radius: 16px;
   overflow: hidden;
   flex-shrink: 0;
 }
