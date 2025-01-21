@@ -36,11 +36,11 @@
 }
 
 .lead-card {
-  @apply p-4 border rounded-lg hover:bg-secondary/50 transition-colors cursor-pointer;
+  @apply p-6 border rounded-lg hover:bg-secondary/30 transition-colors cursor-pointer;
 }
 
 .lead-card.active {
-  @apply bg-secondary;
+  @apply bg-secondary/50;
 }
 
 .badge {
